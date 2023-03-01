@@ -1,0 +1,158 @@
+.img{
+	height: 75px;
+	width: 200px;
+	padding: 10px;
+	border-radius: 50px;
+}
+#go{
+	background-color: white;
+	color: #323f4b;
+	border-radius: 7px;
+	padding: 5px;
+	font-family: 'Andika';
+	font-weight: bold;
+	border: 0px;
+}
+#gone{
+	background-color:red;
+    color: white;	
+    border: 0px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 7px;
+    font-family: 'Andika';
+}
+#gone:hover{
+	background-color:  grey;
+	color: red;
+	border-radius: 7px;
+	font-family: 'Andika';
+	border: 0px;
+}
+#go:hover{
+	color: darkred;
+	border-radius: 7px;
+	font-family: 'Andika';
+	border: 0px;
+}
+.bgimg{
+	background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+	background-size: cover;
+	height: 600px;
+	width: 1350px;
+}
+.details{
+	font-family: 'Andika';
+	color: white;
+	padding: 25px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	font-weight: bold;
+	background-color: #04020a00;
+	margin-top: 370px;
+}
+.hello{
+	color:white;
+	font-family: 'Andika';
+	background-color: red;
+	border-radius: 15px;
+	margin: 20px;
+	padding: 10px;
+	font-weight: bold;
+    border: 0px;
+}
+.bgcolor{
+	background-color: #f2f2f2;
+	height: 400px;
+	width: 1350px;
+}
+.layout{
+	background-color: white;
+	width: 300px;
+	height: 250px;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 15px;
+	border-style:solid ;
+	border-width: 1px;
+	border-color: #e5eaf4;
+	text-align: center;
+}
+.style{
+	font-style: italic;
+	font-weight: bold;
+	font-weight: 600;
+    color: #323f4b;
+}
+.layout1{
+	background-color: white;
+	width: 250px;
+	height: 350px;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 15px;
+	border-width: 1px;
+	text-align: left;
+}
+.went{
+	color: #c90202;
+    font-size: 14px;
+    font-weight: bold;
+}
+.change{
+	color: #323f4b;
+	font-family: 'Andika';
+	font-size: 18px;
+	margin-top: 24px;
+	font-weight: bold;
+}
+.hehe{
+	font-weight: bold;
+	font-family: 'Andika';
+	font-size: 28px;
+}
+.heh{
+	font-style: italic;
+	font-size: 16px;
+}
+.paybg{
+     background-color: white;
+}
+.paymenting{
+     width: 400px;
+     height: 250px;
+} 
+.cstbutton{
+	color: white;
+	background-color: #c90202;
+	width: 130px;
+	height: 45px;
+	border-width: 0;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+.paycard{
+	width: 50px;
+	height: 50px;
+	margin-right: 28px;
+}
+#contact{
+	background-color: grey;
+	padding-bottom: 4rem;
+}
+.socialicons{
+	font-size: 40px;
+	cursor: pointer;
+}
+#icenter1{
+	text-align: center;
+}
+.fa-brands{
+	color: white;
+}
+.fa-facbook, .fa-instagram, .fa-linkedin{
+	margin: 40px;
+}
+.fa-facebook:hover, .fa-instagram:hover, .fa-linkedin:hover{
+	color: #c90202;
+}
